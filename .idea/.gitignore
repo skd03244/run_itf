@@ -242,4 +242,14 @@ sketch
 # https://plugins.jetbrains.com/plugin/8053-azure-toolkit-for-intellij
 .idea/**/azureSettings.xml
 
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+.idea/workspace.xml
+.next/trace
+
 # End of https://www.toptal.com/developers/gitignore/api/react,nextjs,webstorm,intellij+all,visualstudiocode
