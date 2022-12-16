@@ -252,4 +252,7 @@ sketch
 .idea/workspace.xml
 .next/trace
 
+# TypeScript cache
+*.tsbuildinfo
+
 # End of https://www.toptal.com/developers/gitignore/api/react,nextjs,webstorm,intellij+all,visualstudiocode

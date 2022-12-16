@@ -1,10 +1,8 @@
-import TopBar from "../components/common/TopBar";
+import Carousel from "../components/main/banners/Carousel";
 export default function Home() {
   return (
     <div>
-      <div >
-
-      </div>
+        <Carousel />
     </div>
   )
 }
